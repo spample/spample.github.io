@@ -1,0 +1,17 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Node.js dependencies (if used)
+node_modules/
+
+# Ignore build outputs
+dist/
+build/
+
+# Ignore environment and local config files
+.env
+*.local
+
+# Ignore Git directory (if not uploading as part of ZIP)
+.git/
