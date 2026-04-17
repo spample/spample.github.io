@@ -11,3 +11,10 @@ This is a personal or project-based static website hosted via GitHub Pages.
 
 This project is designed to be hosted on GitHub Pages.
 To publish it, push your main branch and enable Pages in your repo settings.
+
+
+## To-Do
+
+- [ ] Update Master Resume
+- [ ] Add more of my projects
+- [ ] Redo project Descriptions
